@@ -1,1 +1,1 @@
-# Data_Analytics_R
+# Example of README.md
